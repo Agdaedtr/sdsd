@@ -1,4 +1,16 @@
-fix ragebot
-fix auto fire
-fix silent aim
-fix auto strafe
+▸ fix ragebot
+└─ переписана логика выбора цели
+└─ оптимизирована скорость сканирования
+
+▸ fix auto fire
+└─ устранены миссы
+└─ улучшили работу 
+
+▸ fix silent aim
+
+▸ fix auto strafe
+└─ исправлено направление стрейфа
+└─ добавлена поддержка WASD + мышь
+
+▸ rework cfg system
+└─ полный рефакторинг системы конфигов
